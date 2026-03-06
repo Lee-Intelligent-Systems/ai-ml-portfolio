@@ -55,7 +55,7 @@ The process included:
 4. Structuring the information into a clear digital timeline format  
 5. Presenting the timeline as a portfolio artifact for educational and professional purposes  
 
-AI-assisted tools were used to help organize research topics and identify major milestones in AI history.
+During the research process I used AI tools to help identify important milestones in artificial intelligence and organize the timeline structure, while verifying the information using academic and industry sources.
 
 ---
 
@@ -183,7 +183,7 @@ Modern AI systems now support writing, coding, research, design, video generatio
 
 ## Value Proposition
 
-This artifact demonstrates my ability to research complex technical topics and present them in a structured, educational format.
+Creating this artifact helped me practice researching complex technical topics and presenting them in a clear, organized format.
 
 Understanding the historical evolution of AI is critical for professionals in the field because it provides context for modern breakthroughs and helps identify patterns in technological progress.
 
@@ -211,16 +211,16 @@ This artifact reflects my engagement with the foundational knowledge required to
 
 ## References
 
-[Turing – Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238)
+Turing, A. (1950). Computing Machinery and Intelligence. Mind Journal.
 
-[Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/)
+Russell, S., & Norvig, P. Artificial Intelligence: A Modern Approach.
 
-[Deep Learning Book](https://www.deeplearningbook.org/)
+Goodfellow, I., Bengio, Y., & Courville, A. Deep Learning.
 
-[OpenAI – Introducing ChatGPT](https://openai.com/blog/chatgpt)
+OpenAI. Introducing ChatGPT.
 
-[OpenAI – GPT-4 Technical Report](https://openai.com/research/gpt-4)
+OpenAI. GPT-4 Technical Report.
 
-[Anthropic – Claude](https://www.anthropic.com/news/introducing-claude)
+Anthropic. Claude AI.
 
-[Google – Gemini AI](https://blog.google/technology/ai/google-gemini-ai/)
+Google. Gemini AI.
