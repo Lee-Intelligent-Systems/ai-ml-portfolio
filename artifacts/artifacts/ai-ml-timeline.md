@@ -224,11 +224,3 @@ This artifact reflects my engagement with the foundational knowledge required to
 [Anthropic – Claude](https://www.anthropic.com/news/introducing-claude)
 
 [Google – Gemini AI](https://blog.google/technology/ai/google-gemini-ai/)
-
-
-
-
-
-
-
-
