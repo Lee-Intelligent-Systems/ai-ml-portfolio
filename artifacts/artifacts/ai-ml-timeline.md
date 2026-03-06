@@ -17,9 +17,9 @@ The timeline provides insight into how AI evolved from theoretical research into
 
 The following visual timelines illustrate key eras and milestones in the evolution of artificial intelligence.
 
-![AI Timeline Overview](../images/ai-history-timeline.png)
+![Artificial Intelligence Timeline](https://upload.wikimedia.org/wikipedia/commons/6/69/Artificial_Intelligence_timeline.png)
 
-![AI Development Eras](../images/ai-era-timeline.png)
+![Machine Learning Timeline](https://miro.medium.com/v2/resize:fit:1400/1*J9hAb4aM4k8p9h6s9xVf4Q.png)
 
 ---
 
