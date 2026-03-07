@@ -50,7 +50,10 @@ The goal of this portfolio is to document my growth as an AI professional while 
 
 ## Artifacts
 
-### Artifact 1
-AI and Machine Learning Evolution Timeline
+### Artifact 1 — AI and Machine Learning Evolution Timeline
+
+View Artifact 1:
+
+https://lee-intelligent-systems.github.io/ai-ml-portfolio/artifacts/artifacts/ai-ml-timeline.md
 
 This artifact explores the historical development of artificial intelligence, highlighting key milestones, influential researchers, and major technological breakthroughs that shaped modern AI systems.
