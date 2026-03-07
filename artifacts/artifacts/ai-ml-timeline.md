@@ -1,7 +1,7 @@
 # Artifact 1: AI and Machine Learning Evolution Timeline
 
-> A historical overview of key breakthroughs that shaped modern Artificial Intelligence and Machine Learning.  
-> This artifact highlights the foundational discoveries, technological milestones, and modern innovations that transformed AI from theoretical research into one of the most influential technologies of the modern era.
+A historical overview of key breakthroughs that shaped modern Artificial Intelligence and Machine Learning.  
+This artifact highlights the foundational discoveries, technological milestones, and modern innovations that transformed AI from theoretical research into one of the most influential technologies of the modern era.
 
 ---
 
