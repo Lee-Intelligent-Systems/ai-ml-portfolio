@@ -54,6 +54,6 @@ The goal of this portfolio is to document my growth as an AI professional while 
 
 View Artifact 1:
 
-https://lee-intelligent-systems.github.io/ai-ml-portfolio/artifacts/artifacts/ai-ml-timeline.md
+[View Artifact 1](https://lee-intelligent-systems.github.io/ai-ml-portfolio/artifacts/artifacts/ai-ml-timeline.md)
 
 This artifact explores the historical development of artificial intelligence, highlighting key milestones, influential researchers, and major technological breakthroughs that shaped modern AI systems.
